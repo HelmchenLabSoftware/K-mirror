@@ -2,6 +2,9 @@
 
 These are instructions on how to implement z-scanning within a single imaging plane in ScanImage. The main idea is to create a new Matlab GUI that runs independently of ScanImage (`field_curvature_GUI.m`). With this GUI, the user can interactively shape the z-scan "waveform". This waveform is then saved to disk. Then, ScanImage reads the saved waveform from disk (hard-coded path) and applies it if the "Field curvature" checkbox in the main ScanImage GUI window is checked (controlled by the variable `hSI.hFastZ.enableFieldCurveCorr`).
 
+<p align="center"><img src="https://github.com/HelmchenLabSoftware/K-mirror/blob/master/ScanImage code/Field_curvature_GUI_screenshot.png "  width="85%"></p>
+
+
 To use the code, please follow these instructions (tested in ScanImage Premium 2023 and 2024):
 
 1. Copy the file `field_curvature_GUI.m` to your computer.
