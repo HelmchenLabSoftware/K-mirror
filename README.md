@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/License-GPL--3.0-brightgreen)](https://github.com/HelmchenLabSoftware/K-mirror/blob/master/LICENSE)
+[![Size](https://img.shields.io/github/repo-size/HelmchenLabSoftware/K-mirror?style=plastic)](https://img.shields.io/github/repo-size/HelmchenLabSoftware/K-mirror?style=plastic)
+[![Language](https://img.shields.io/github/languages/top/HelmchenLabSoftware/K-mirror?style=plastic)](https://github.com/HelmchenLabSoftware/K-mirror)
+
 # Scan field rotation with a K-mirror
 Resources related to scan field rotation with a K-mirror for fast two-photon imaging along curved planes.
 
