@@ -7,4 +7,4 @@ The content of this repository consists of the following:
 2. CAD files for custom K-mirror holders
 3. CAD files for an adapter to hold a Leica SP8 K-mirror in a 2" cage system
 
-Comments and questions are welcome as GitHub issues or via [email](ptrrupprecht+kmirror@gmail.com).
+Comments and questions are welcome as GitHub issues or via [email](p.t.r.rupprecht+kmirror@gmail.com).
