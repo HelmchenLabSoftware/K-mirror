@@ -12,4 +12,4 @@ The content of this repository consists of the following:
 3. Matlab code for within-plane z-scanning in ScanImage
 4. Python notebooks with geometric optics simulations
 
-Comments and questions are welcome as GitHub issues or via [email](p.t.r.rupprecht+kmirror@gmail.com).
+Comments and questions are welcome as GitHub issues or via [email](mailto:p.t.r.rupprecht+kmirror@gmail.com).
