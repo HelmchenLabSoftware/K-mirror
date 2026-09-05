@@ -1,6 +1,6 @@
 ## 3D-printed K-mirror
 
-<p align="center"><img src="https://github.com/HelmchenLabSoftware/K-mirror/blob/main/CAD%20files%20custom%20K%20mirror/Screenshot_CAD_model_transparent.png"  width="60%"></p>
+<p align="center"><img src="https://github.com/HelmchenLabSoftware/K-mirror/blob/main/CAD%20files%203D-printed%20K-mirror/Screenshot_CAD_model_transparent.png"  width="60%"></p>
 
 ### Overview
 
