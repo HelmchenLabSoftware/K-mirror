@@ -44,7 +44,7 @@ Installation instructions:
 8. Start scanning with "Focus" or "Grab".
 9. You are now adjusting your axial focus within a single plane.
 
-We also provide code for analogous within-plane control of the Pockels cell (`pockels_control_GUI.m`). All code was written by [Peter Rupprecht](https://scholar.google.ch/citations?user=cNQCYjkAAAAJ). The GUIs were written with the help of AI and improved by the user. All code was tested with ScanImage Premium 2023 and 2024. 
+We also provide code for analogous within-plane control of the Pockels cell (`pockels_control_GUI.m`). All code was tested with ScanImage Premium 2023 and 2024. 
 
 
 ### 3. Python notebooks with geometric optics simulations
