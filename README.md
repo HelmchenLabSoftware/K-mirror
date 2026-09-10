@@ -54,7 +54,13 @@ This folder contains two Jupyter notebooks that model a K-mirror for scan field 
 - **`Scanning_space_configuration.ipynb`**: K-mirror placed between the scan lens and the tube lens. Computes beam clipping vs. scan angle.
 - **`Infinity_space_configuration.ipynb`**: K-mirror placed between the tube lens and the objective. Computes beam clipping vs. scan angle, and in addition pointing error as a function of K-mirror misalignment.
 
-Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code (`Limacon_de_Pascale.m`) to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX).
+To use the Jupyter notebooks, install dependencies (tested with Python 3.11, but should work with any recent version of Python):
+
+```
+pip install optiland==0.6.2 ipywidgets
+```
+
+and open the notebooks in Jupyter. Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code (`Limacon_de_Pascale.m`) to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX).
 
 
 ### Questions and contact details
