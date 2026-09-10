@@ -12,7 +12,7 @@ This repository provides
 
 1. CAD files for a 3D-printed K-mirror holder,
 2. Matlab code for within-plane z-scanning in ScanImage, and
-3. Python notebooks with geometric optics simulations
+3. Python notebooks with geometric optics simulations.
 
 
 ### 1. CAD files for a 3D-printed K-mirror holder
