@@ -14,7 +14,6 @@ This repository provides
 2. Matlab code for within-plane z-scanning in ScanImage, and
 3. Python notebooks with geometric optics simulations
 
----
 
 ### 1. CAD files for a 3D-printed K-mirror holder
 
@@ -24,7 +23,6 @@ The 3D-printed K-mirror is described with all details in our [preprint](https://
 
 This folder contains the CAD files for the 3D-printed K-mirror holder as `*.STL` and `*.STEP` files, as well as a CAD model of the assembly together with the Thorlabs 2" rotatory adapter as `*.STL` and `*.PDF` files. The PDF file is an interactive file and is best viewed when downloaded. In addition, the repository also contains a file to 3D-print an adapter for the Leica K-mirror.
 
----
 
 ### 2. Matlab code to control within-plane z-scanning in ScanImage
 
@@ -48,7 +46,6 @@ Installation instructions:
 
 We also provide code for analogous within-plane control of the Pockels cell (`pockels_control_GUI.m`). All code was written by [Peter Rupprecht](https://scholar.google.ch/citations?user=cNQCYjkAAAAJ). The GUIs were written with the help of AI and improved by the user. All code was tested with ScanImage Premium 2023 and 2024. 
 
----
 
 ### 3. Python notebooks with geometric optics simulations
 
@@ -59,7 +56,6 @@ This folder contains two Jupyter notebooks that model a K-mirror for scan field 
 
 Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX).
 
----
 
 ### Questions and contact details
 
