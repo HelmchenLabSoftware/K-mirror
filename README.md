@@ -34,7 +34,7 @@ The **Matlab GUI** to control the z-scanning waveform runs independently of Scan
 
 Installation instructions:
 
-1. Copy the file `field_curvature_GUI.m` to your ScanImage computer.
+1. Copy the file **`field_curvature_GUI.m`** to your ScanImage computer.
 2. Adapt the hard-coded path used by `field_curvature_GUI.m` to save the waveform.
 3. Use the code provided in `Insert_code_into_WaveformManager.m` and insert it into ScanImage's script `WaveformManager.m`. This script can be found under `+scanimage/+components/WaveformManager.m`. You do not have to delete anything, only add the conditional statement following `if obj.hSI.hFastZ.enableFieldCurveCorr == 1` to the function `updateWaveforms()`.
 4. Adapt the hard-coded path in this inserted code snippet to match the path where the waveform was saved (`Piecewise_data.mat`).
@@ -51,10 +51,10 @@ We also provide code for analogous within-plane control of the Pockels cell (`po
 
 This folder contains two Jupyter notebooks that model a K-mirror for scan field rotation in a two-photon microscope. The notebooks use geometric raytracing (Optiland) to simulate the beam through the optical path. The main goal is to check how much of the beam is clipped by the K-mirror at different scan angles, mirror positions, and rotation angles. Parameters (lens focal lengths, mirror sizes, distances) can be edited to test your own microscope setup, and interactive widgets let you explore the geometry and clipping live.
 
-- **Scanning_space_configuration.ipynb**: K-mirror placed between the scan lens and the tube lens. Computes beam clipping vs. scan angle.
-- **Infinity_space_configuration.ipynb**: K-mirror placed between the tube lens and the objective. Computes beam clipping vs. scan angle, and in addition pointing error as a function of K-mirror misalignment.
+- **`Scanning_space_configuration.ipynb`**: K-mirror placed between the scan lens and the tube lens. Computes beam clipping vs. scan angle.
+- **`Infinity_space_configuration.ipynb`**: K-mirror placed between the tube lens and the objective. Computes beam clipping vs. scan angle, and in addition pointing error as a function of K-mirror misalignment.
 
-Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX).
+Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code (`Limacon_de_Pascale.m`) to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX).
 
 
 ### Questions and contact details
