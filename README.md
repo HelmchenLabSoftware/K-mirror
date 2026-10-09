@@ -21,7 +21,7 @@ This repository provides
 
 The 3D-printed K-mirror is described with all details in our preprint (link will be added when available).
 
-This folder contains the CAD files for the 3D-printed K-mirror holder as `*.STL` and `*.STEP` files, as well as a CAD model of the assembly together with the Thorlabs 2" rotatory adapter as `*.STL` and `*.PDF` files. The PDF file is an interactive file and is best viewed when downloaded. In addition, the repository also contains a file to 3D-print an adapter for the Leica K-mirror.
+This folder contains the CAD files for the 3D-printed K-mirror holder as `*.STL` and `*.STEP` files, as well as a CAD model of the assembly together with the Thorlabs 2" rotatory adapter as `*.STL` and `*.PDF` files. The PDF file is an interactive file and is best viewed when downloaded.
 
 
 ### 2. Matlab code to control within-plane z-scanning in ScanImage
