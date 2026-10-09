@@ -4,7 +4,7 @@
 
 ## Scan field rotation with a K-mirror
 
-Resources for scan field rotation with a K-mirror for fast two-photon imaging along curved planes. All details are described in our [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX). 
+Resources for scan field rotation with a K-mirror for fast two-photon imaging along curved planes. All details are described in our preprint (link will be added when available). 
 
 ### Overview
 
@@ -19,7 +19,7 @@ This repository provides
 
 <p align="center"><img src="https://github.com/HelmchenLabSoftware/K-mirror/blob/main/CAD%20files%203D-printed%20K-mirror/Screenshot_CAD_model_transparent.png"  width="40%"></p>
 
-The 3D-printed K-mirror is described with all details in our [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX).
+The 3D-printed K-mirror is described with all details in our preprint (link will be added when available).
 
 This folder contains the CAD files for the 3D-printed K-mirror holder as `*.STL` and `*.STEP` files, as well as a CAD model of the assembly together with the Thorlabs 2" rotatory adapter as `*.STL` and `*.PDF` files. The PDF file is an interactive file and is best viewed when downloaded. In addition, the repository also contains a file to 3D-print an adapter for the Leica K-mirror.
 
@@ -60,7 +60,7 @@ To use the Jupyter notebooks, install dependencies (tested with Python 3.11, but
 pip install optiland==0.6.2 ipywidgets
 ```
 
-and open the notebooks in Jupyter. Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code (`Limacon_de_Pascale.m`) to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint [preprint](https://www.biorxiv.org/content/10.1101/2026.XXXXXXXXX).
+and open the notebooks in Jupyter. Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code (`Limacon_de_Pascale.m`) to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint preprint (link will be added when available).
 
 
 ### Questions and contact details
