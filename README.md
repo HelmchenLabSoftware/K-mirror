@@ -60,7 +60,7 @@ To use the Jupyter notebooks, install dependencies (tested with Python 3.11, but
 pip install optiland==0.6.2 ipywidgets
 ```
 
-and open the notebooks in Jupyter. Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code (`Limacon_de_Pascale.m`) to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint preprint (link will be added when available).
+and open the notebooks in Jupyter. Additional files include videos to illustrate the interactive use of the widgets, and a piece of Matlab code (`Limacon_de_Pascale.m`) to visualize the limacon de Pascal as a function of alignment errors. For details and context, check out the preprint (link will be added when available).
 
 
 ### Questions and contact details
