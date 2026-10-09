@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-GPL--3.0-brightgreen)](https://github.com/HelmchenLabSoftware/K-mirror/blob/master/LICENSE)
-[![Size](https://img.shields.io/github/repo-size/HelmchenLabSoftware/K-mirror?style=plastic)](https://img.shields.io/github/repo-size/HelmchenLabSoftware/K-mirror?style=plastic)
+[![Size](https://img.shields.io/github/repo-size/HelmchenLabSoftware/K-mirror?style=plastic)](https://github.com/HelmchenLabSoftware/K-mirror)
 [![Language](https://img.shields.io/github/languages/top/HelmchenLabSoftware/K-mirror?style=plastic)](https://github.com/HelmchenLabSoftware/K-mirror)
 
 ## Scan field rotation with a K-mirror
